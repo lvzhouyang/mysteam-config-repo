@@ -1,0 +1,7 @@
+server:
+  port: 23101
+
+spring:
+  application:
+    name: user
+    index: 0
